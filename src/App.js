@@ -8,8 +8,8 @@ import {
   useColorScheme,
   View,
 } from 'react-native'
-import CustomButton from './src/components/CustomButton'
-import Display from './src/components/Display'
+import CustomButton from './components/CustomButton'
+import Display from './components/Display'
 
 const initialState = {
   displayValue: '0',
